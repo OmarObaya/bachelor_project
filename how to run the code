@@ -1,0 +1,5 @@
+first run make salsa 
+second Run the genetic algorithim and take the first factor it gets and multiply it by the features that were extracted in database file.
+third  train and evalute
+after evaluation take the LR value and give it as an input to the genetic algorithm then repeat 2nd and 3rd step again 
+you will keep doing this until you reach the ma generation size that was set.
